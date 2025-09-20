@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { ArrowLeft, CreditCard, Truck, Shield } from 'lucide-react';
+import { ArrowLeft, CreditCard, Shield } from 'lucide-react';
 import { useCartStore } from '../store/cartStore';
 import { ShippingAddress } from '../types';
 
