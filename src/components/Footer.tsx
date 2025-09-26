@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">세진 마켓</h3>
             <p className="text-gray-300 text-sm">
-              오세진의 포트폴리오 작업물입니다. 다양한 전자제품과 가전제품을 합리적인 가격에 제공합니다.
+              최고의 상품을 저렴한 가격에
             </p>
           </div>
           
@@ -36,14 +36,14 @@ const Footer: React.FC = () => {
             <h4 className="font-semibold mb-4">연락처</h4>
             <div className="text-sm text-gray-300 space-y-2">
               <p>이메일: os160960@gmail.com</p>
-              <p>전화: 1588-0000</p>
+              <p>전화: 1111-1111</p>
               <p>운영시간: 평일 9:00-18:00</p>
             </div>
           </div>
         </div>
         
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-sm text-gray-400">
-          <p>&copy; 2025 MiniShop. All rights reserved. 오세진의 포트폴리오 작업물입니다</p>
+          <p>&copy; 2025 오세진 쇼핑몰 웹 포트폴리오 프로젝트 입니다.</p>
         </div>
       </div>
     </footer>
