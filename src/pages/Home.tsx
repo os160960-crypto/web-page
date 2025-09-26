@@ -28,8 +28,8 @@ const Home: React.FC = () => {
               </span>
             </h1>
             <p className="text-xl md:text-2xl mb-12 text-white/90 max-w-3xl mx-auto leading-relaxed">
-              MiniShop에서 다양한 전자제품과 생활용품을 만나보세요.<br />
-              <span className="text-yellow-300">품질과 가격, 두 마리 토끼를 모두 잡으세요!</span>
+              세진 마켓에서 여러 상품을 찾아보세요<br />
+              <span className="text-yellow-300">저를 잡아보세요!</span>
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Link
@@ -51,7 +51,7 @@ const Home: React.FC = () => {
       <section className="py-20 bg-gradient-to-br from-gray-50 to-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">왜 MiniShop을 선택해야 할까요?</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">왜 세진 마켓을 선택해야 할까요?</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">고객 만족을 위한 특별한 서비스를 제공합니다</p>
           </div>
           
