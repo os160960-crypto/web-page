@@ -6,9 +6,9 @@ const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">MiniShop</h3>
+            <h3 className="text-lg font-semibold mb-4">세진 마켓</h3>
             <p className="text-gray-300 text-sm">
-              최고의 상품을 합리적인 가격에 제공하는 온라인 쇼핑몰입니다.
+              오세진의 포트폴리오 작업물입니다. 다양한 전자제품과 가전제품을 합리적인 가격에 제공합니다.
             </p>
           </div>
           

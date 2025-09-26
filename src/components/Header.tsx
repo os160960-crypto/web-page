@@ -14,7 +14,7 @@ const Header: React.FC = () => {
           <Link to="/" className="flex items-center group">
             <div className="relative">
               <h1 className="text-2xl font-bold bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 bg-clip-text text-transparent group-hover:from-indigo-500 group-hover:via-purple-500 group-hover:to-pink-500 transition-all duration-300">
-                MiniShop
+               세진 마켓
               </h1>
               <div className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-indigo-600 to-pink-600 group-hover:w-full transition-all duration-300"></div>
             </div>
