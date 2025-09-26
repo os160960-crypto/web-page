@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">세진 마켓</h3>
             <p className="text-gray-300 text-sm">
-              최고의 상품을 저렴한 가격에
+              저희 가게를 찾아주셔서 감사합니다. 최고의 상품과 서비스를 제공 해드리겠습니다. 즐거운 쇼핑 되세요!
             </p>
           </div>
           

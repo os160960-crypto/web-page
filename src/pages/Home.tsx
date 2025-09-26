@@ -19,12 +19,12 @@ const Home: React.FC = () => {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
           <div className="text-center">
             <div className="inline-block px-4 py-2 bg-white/20 rounded-full text-sm font-medium mb-6 backdrop-blur-sm">
-              ✨ 새로운 쇼핑 경험을 시작하세요
+              ✨ 안녕하세요 세진 마켓 입니다.
             </div>
             <h1 className="text-5xl md:text-7xl font-bold mb-8 leading-tight">
               <span className="block">최고의 상품을</span>
               <span className="block bg-gradient-to-r from-yellow-300 to-pink-300 bg-clip-text text-transparent">
-                합리적인 가격에
+                저렴하고 착한 가격에 
               </span>
             </h1>
             <p className="text-xl md:text-2xl mb-12 text-white/90 max-w-3xl mx-auto leading-relaxed">
@@ -51,7 +51,7 @@ const Home: React.FC = () => {
       <section className="py-20 bg-gradient-to-br from-gray-50 to-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">왜 세진 마켓을 선택해야 할까요?</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">왜 세진 마켓 을 선택해야 할까요?</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">고객 만족을 위한 특별한 서비스를 제공합니다</p>
           </div>
           
@@ -63,7 +63,7 @@ const Home: React.FC = () => {
                   <Truck className="h-8 w-8 text-white" />
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-indigo-700 transition-colors">빠른 배송</h3>
-                <p className="text-gray-600 leading-relaxed">전국 무료배송으로 당일발송까지! 빠르고 안전한 배송 서비스를 경험해보세요.</p>
+                <p className="text-gray-600 leading-relaxed">전국 무료배송으로 당일 배송까지! 빠르고 안전한 배송 서비스를 경험해보세요.</p>
               </div>
             </div>
             
@@ -74,7 +74,7 @@ const Home: React.FC = () => {
                   <Shield className="h-8 w-8 text-white" />
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-green-700 transition-colors">안전한 결제</h3>
-                <p className="text-gray-600 leading-relaxed">SSL 보안 시스템으로 개인정보를 안전하게 보호하며, 다양한 결제 수단을 지원합니다.</p>
+                <p className="text-gray-600 leading-relaxed">세진 보안 시스템으로 개인정보를 안전하게 보호하며, 다양한 결제 수단을 지원합니다.</p>
               </div>
             </div>
             
@@ -85,7 +85,7 @@ const Home: React.FC = () => {
                   <RotateCcw className="h-8 w-8 text-white" />
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-orange-700 transition-colors">쉬운 교환/환불</h3>
-                <p className="text-gray-600 leading-relaxed">30일 무조건 교환/환불 정책으로 언제든지 마음이 바뀌어도 걱정 없습니다.</p>
+                <p className="text-gray-600 leading-relaxed">1일 무조건 교환/환불 정책으로 언제든지 마음이 바뀌어도 걱정 없습니다.</p>
               </div>
             </div>
             
